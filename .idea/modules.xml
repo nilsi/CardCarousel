@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CardCarousel.iml" filepath="$PROJECT_DIR$/CardCarousel.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardcarousel.iml" filepath="$PROJECT_DIR$/cardcarousel.iml" />
     </modules>
   </component>
 </project>
