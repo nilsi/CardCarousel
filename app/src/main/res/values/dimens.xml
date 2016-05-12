@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="page_content_width">200dp</dimen>
+    <dimen name="page_content_height">340dp</dimen>
+</resources>

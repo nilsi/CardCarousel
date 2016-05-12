@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="select_color">#6633b5e5</color>
+
+
+    <!-- Card Colors -->
+    <color name="x_card_color_dark_blue">#40569E</color>
+    <color name="x_card_color_pink">#B861A6</color>
+    <color name="x_card_color_sharp_red">#F04E2F</color>
+    <color name="x_card_color_white">#EDEDED</color>
+    <color name="x_card_color_light_blue">#4895D0</color>
+    <color name="x_card_color_green">#5ABC63</color>
+    <color name="x_card_color_yellow">#EBC51B</color>
+    <color name="x_card_color_red">#D65826</color>
+
+</resources>
